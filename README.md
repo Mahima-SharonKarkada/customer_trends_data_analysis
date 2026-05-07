@@ -2,16 +2,18 @@
 Analyzed 3,900 retail transactions using Python, PostgreSQL &amp; Power BI. Covers data cleaning, SQL business queries, customer segmentation, discount patterns &amp; revenue trends. Built an interactive dashboard and derived actionable business recommendations. My first end-to-end data analytics project.
 
 🛍️ CUSTOMER SHOPPING BEHAVIOUR ANALYSIS
+
 Uncovering retail trends through data from raw transactions to actionable business strategy.
 🌱 This is my first end-to-end data analytics project, completed > as part of my learning journey into data analysis.
 
-PROJECT OVERVIEW
+<u><b>PROJECT OVERVIEW</b></u>
 A leading retail company sought to better understand its customers' shopping behavior to improve sales, customer satisfaction, and long-term loyalty. This end-to-end data analysis project works through 3,900 transactional records across multiple product categories to surface insights on spending patterns, customer segments, product preferences, and subscription behaviour.
 
 Core Business Question:
 "How can the company leverage consumer shopping data to identify trends, improve customer engagement, and optimize marketing and product strategies?"
 
- Dataset Summary
+ 
+Dataset Summary
 Property	Detail
 Rows	3,900
 Columns	18
