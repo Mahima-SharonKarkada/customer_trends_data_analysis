@@ -121,3 +121,17 @@ An interactive dashboard was built to visualize key metrics and trends:
 ## 🙏 <ins>**ACKNOWLEDGEMENTS**</ins>
 
 This project was inspired by and built along with a tutorial on YouTube by **Amlan Mohanty**. All analysis, code, and insights were implemented and documented by me as a hands-on learning exercise.
+
+
+##  <ins>**OUTPUT**</ins>
+-**Result 1:** 
+-Developed an interactive Power BI dashboard to analyze customer shopping behavior, including subscription trends, gender-based purchases, product categories, and shipping preferences.
+<img width="1348" height="734" alt="image" src="https://github.com/user-attachments/assets/bf82add3-8850-49d2-8935-3a59a6b22e59" />
+
+-**Result 2:**
+-This analysis explores customer purchasing behavior based on gender, subscription status, product category, and shipping preferences. 
+The findings indicate that male customers had both subscribed and non-subscribed purchase patterns, with accessories being a frequently purchased category and express shipping commonly chosen for delivery.
+
+<img width="1347" height="737" alt="image" src="https://github.com/user-attachments/assets/2ee75e78-bb36-4535-9a99-de3aede8015f" />
+
+
