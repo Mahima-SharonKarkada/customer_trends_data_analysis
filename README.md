@@ -122,6 +122,7 @@ An interactive dashboard was built to visualize key metrics and trends:
 
 This project was inspired by and built along with a tutorial on YouTube by **Amlan Mohanty**. All analysis, code, and insights were implemented and documented by me as a hands-on learning exercise.
 
+---
 
 ##  <ins>**OUTPUT**</ins>
 -**Result 1:** 
